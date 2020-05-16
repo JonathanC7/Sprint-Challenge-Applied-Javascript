@@ -30,8 +30,6 @@ axios.get('https://lambda-times-backend.herokuapp.com/articles')
             cardsContainer.appendChild(cardMaker(list))
         })
     }
-    console.log(articleComponents)
-    
 })
 .catch(error => { console.log(error)})
 function cardMaker(obj){
