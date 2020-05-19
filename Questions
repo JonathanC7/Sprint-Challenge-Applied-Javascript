@@ -1,0 +1,12 @@
+What is the DOM?
+    A document object model is a representation of the data in a webpage but in object form
+What is an event?
+    An event is your interaction with the webpage as well as things that manipulate the page
+What is an event listener?
+    An event listener is a piece of code made to listen for events and execute another thing.
+Why would we convert a NodeList into an Array?
+    So that you can use all the array methods.
+What is a component?
+    A component is a function that is used to make one thing but with different
+    content so that you don't have to rewrite code everytime you need to make another 
+    of that thing. 
